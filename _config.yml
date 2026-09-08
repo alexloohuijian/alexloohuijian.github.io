@@ -3,4 +3,4 @@ description: "Notes on Mechanical Sympathy and Systems Engineering"
 theme: minima
 header_pages:
   - index.md
-  - _projects/duckrag-sad.md
+  - projects/duckrag-sad.md
