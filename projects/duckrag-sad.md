@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Project DuckRAG: Software Architecture Description (SAD)"
-permalink: /projects/project-duckrag-SAD/
+permalink: /projects/duckrag-sad/
 ---
 # Software Architecture Description (SAD)
 
