@@ -551,7 +551,7 @@ Decision:
 
 * The project architecture is now formally known as Actor-EDA, to make it standard and easier to explain
 
-# Section 9: Accreditation, Acknowledgements and Attributions
+# Section 7: Accreditation, Acknowledgements and Attributions
 
 Project DuckRag will be released under GNU GPL v3. (it isn't actually out yet)
 
